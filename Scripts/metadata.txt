@@ -1,0 +1,7 @@
+Levels:[0]
+Controls:[left,a,right,d,jump,w,grapple,f,flip, ]
+BossKey:[5]
+CheatCode:[2]
+Scores:[AA,9230,AB,1633,BB,9559,AR,1497,AF,1596,ME,10818,AT,10712]
+Initials:[AT]
+CurrentScore:[0]
